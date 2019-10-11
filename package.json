@@ -1,0 +1,27 @@
+{
+  "name": "crawlersu",
+  "version": "1.0.0",
+  "description": "Crawler by Suzana",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzanakaren/crawlerbacktoyou.git"
+  },
+  "keywords": [
+    "Crawler",
+    "caipirinha",
+    "yahoo"
+  ],
+  "author": "Suzana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzanakaren/crawlerbacktoyou/issues"
+  },
+  "homepage": "https://github.com/suzanakaren/crawlerbacktoyou#readme",
+  "devDependencies": {
+    "crawler": "^1.2.1"
+  }
+}
